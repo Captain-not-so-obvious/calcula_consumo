@@ -1,0 +1,39 @@
+header {
+	font-family: 'Dongle', sans-serif;
+	text-align: center;
+}
+
+body {
+	font-family: 'Dongle', sans-serif;
+	text-align: center;
+}
+
+.primeiro_titulo_inicial {
+	font-size: 42px;
+	font-style: bold;
+	text-align: center;
+	padding: 25px;
+}
+
+.subtitulo_inicial {
+	font-size: 24px;
+	text-align: center;
+	padding: 5px;
+}
+
+.btns_inicial {
+	text-align: center;
+	font-size: 24px;
+	padding: 2.5px;
+}
+
+.btn_calcula {
+	text-align: center;
+	margin: 5px;
+	color: green;
+}
+
+.btn_calcula: hover {
+	background-color: greenyellow;
+}
+
